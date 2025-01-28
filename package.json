@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "satellite.js": "^5.0.0",
+    "sgp4": "^1.0.10"
+  }
+}

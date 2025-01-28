@@ -1,0 +1,7 @@
+{
+  "name": "space-dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
